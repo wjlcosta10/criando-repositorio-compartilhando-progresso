@@ -1,2 +1,2 @@
-# criando-repositorio-compartilhando-progresso
-Desafio Projeto Git / GitHub DIO
+# Repositório de Desafio de Projeto Git / GitHub da DIO!
+Criação de Repositório para Compartilhar Progresso sobre Git / GitHub
